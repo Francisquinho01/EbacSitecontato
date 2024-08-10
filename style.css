@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: aliceblue;
+}
+header img{
+   height: 300px;
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 10px;
+   
+    
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+   
+}
+h1{
+    font-size: 55px;
+   background-color: black;
+    color: aqua;
+}
+h2, h3, h4 {
+  color: aqua;
+    font-size: 30px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+   background-color: black;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+body {
+    background-image: url(./Img/ae.jpg);
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
